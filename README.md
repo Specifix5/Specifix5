@@ -1,5 +1,8 @@
 ## hi there !! ヾ(•ω•`)o
-im specifix
+☢ im specifix
+i code sometimes
+primarily uses nodejs for a lot of stuff
+currently working on to expand py skills and world domination
 
 <!--
 **Specifix5/Specifix5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
