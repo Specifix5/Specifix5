@@ -9,6 +9,6 @@
 ## read more on [my website](https://specifix.dev/)
 you should check it out i spent quite a while designing it from pure HTML and JS (jquery doesnt count)  
 please !!  
-## ```visitors so far: :>
-![visitors](https://count.specifix.dev/get/@visitors?theme=moebooru)
+## ```visitors so far: :>```
+![visitors](https://count.specifix.dev/get/@visitors?theme=moebooru)  
 ehehe  
