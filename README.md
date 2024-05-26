@@ -1,4 +1,5 @@
-## Hi there 👋
+## hi there !! ヾ(•ω•`)o
+im specifix
 
 <!--
 **Specifix5/Specifix5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
