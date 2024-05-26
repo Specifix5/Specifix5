@@ -5,22 +5,10 @@
     ^ well, mostly APIs like discordjs or REST  
 👾 currently working on to expand my python skills and acquire world domination  
     ^ so i can get off the nodejs dependency (hehe... get it...)  
-
+  
 ## read more on [my website](https://specifix.dev/)
-## visitors:
+you should check it out i spent quite a while designing it from pure HTML and JS (jquery doesnt count)  
+please !!  
+## ```visitors so far: :>
 ![visitors](https://count.specifix.dev/get/@visitors?theme=moebooru)
-
-<!--
-**Specifix5/Specifix5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ehehe  
