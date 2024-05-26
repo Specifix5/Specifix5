@@ -1,8 +1,14 @@
 ## hi there !! ヾ(•ω•`)o
 ☢ im specifix  
 💡 i code sometimes  
-💫 primarily uses nodejs for a lot of stuff  
-👾 currently working on to expand py skills and world domination  
+💫 primarily uses nodejs for a lot of stuff (full-stack is real)  
+    ^ well, mostly APIs like discordjs or REST  
+👾 currently working on to expand my python skills and acquire world domination  
+    ^ so i can get off the nodejs dependency (hehe... get it...)  
+
+## read more on [my website](https://specifix.dev/)
+## visitors:
+![visitors](https://count.specifix.dev/get/@visitors?theme=moebooru)
 
 <!--
 **Specifix5/Specifix5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
