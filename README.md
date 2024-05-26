@@ -4,7 +4,7 @@
 💫 primarily uses nodejs for a lot of stuff (full-stack is real)  
     ^ well, mostly APIs like discordjs or REST  
 👾 currently working on to expand my python skills and acquire world domination  
-    ^ so i can get off the nodejs dependency (hehe... get it...)  
+    ^ so i can get off my nodejs dependency (hehe... get it...)  
   
 ## read more on [my website](https://specifix.dev/)
 you should check it out i spent quite a while designing it from pure HTML and JS (jquery doesnt count)  
