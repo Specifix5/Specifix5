@@ -11,4 +11,3 @@ you should check it out i spent quite a while designing it from pure HTML/CSS an
 please !!  ┗( T﹏T )┛
 ## visitors so far: :>
 ![visitors](https://count.specifix.dev/get/@visitors?theme=moebooru)  
-ehehe  
