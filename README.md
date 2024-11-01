@@ -1,8 +1,7 @@
 ## hi there !! ヾ(•ω•`)o
 ☢ im specifix  
 💡 i code sometimes  
-💫 primarily uses nodejs for a lot of stuff (full-stack is real)  
-    ^ well, mostly APIs like discordjs or REST  
+💫 the full stack maybe
 👾 currently working on to expand my python skills and acquire world domination  
     ^ so i can get off my nodejs dependency (hehe... get it...)  
   
